@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haru0721
+- 👋 Hi, I’m Spring.
 - 👀 I just started to get into making code recently.
 - 🌱 I’m currently learning html and css.
 - 💞️ I've considered to build new career as a software engineer.
